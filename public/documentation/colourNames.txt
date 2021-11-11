@@ -1,0 +1,50 @@
+For All:
+
+Body Color: #343330 (Jet)
+Text Color: #F3F3F3 (Cultured)
+#000000 (Black)
+#FFFFFF (White)
+
+Headings: #343330 (Jet)
+Headings Border: #4D5359 (Davys Grey)
+
+About: #684551 (Eggplant)
+About Border: #1B1524 (Xiketic)
+
+Services1: #2E4057 (Indigo Dye)
+Services1 Border: #0D1821 (Rich Black Fogra 29)
+Services2: #FCE694 (Buff)
+
+Count: #343330 (Jet)
+Count Border: #4D5359 (Davys Grey)
+
+Reviews1: #343330 (Jet)
+Reviews1 Border: #4D5359 (Davys Grey)
+Reviews3: #CFDBD5 (Gainsboro)
+
+Team1: #1F5673 (Blue Sapphire)
+Team1 Border: #60463B (Liver)
+Team2: #FFFBFC (Snow)
+
+Blog1: #041F1E (Dark Jungle Green)
+Blog1 Border: #702632 (Wine)
+Blog2: #041F1E (Dark Jungle Green)
+
+Contact: #5E503F (Umber)
+Contact Border: #432E36 (Old Burgundy)
+
+Navbar: #9C0D38 (Big Dip Oruby)
+Navbar(Hover): #DBDBDB (Gainsboro)
+
+Link 1(Hover): #1F5673 (Blue Sapphire)
+Link 2(Hover): #E8F7EE (Honeydrew)
+Link 3(Hover): #E3EDE9 (Mint Cream)
+
+Tab: #334E58 (Charcoal)
+
+Button: #B3001B (Carnelian)
+Button(Hover): #1F0318 (Dark Purple)
+
+Footer: #121420 (Xiketic)
+
+Source: https://coolors.co/

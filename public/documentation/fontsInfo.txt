@@ -1,0 +1,14 @@
+Font 1: Black Han Sans
+		Copyright: 2015 The Black Han Sans Authors
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts Link: https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap
+		Download Link: https://www.1001freefonts.com/black-han-sans.font
+Font 2: Varela Round
+		Copyright: 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+		Version: 1.1
+		License: SIL OPEN FONT LICENSE
+		License URI: http://scripts.sil.org/OFL
+		Google Fonts Link: https://fonts.googleapis.com/css?family=Varela+Round&display=swap
+		Download Link: https://www.1001fonts.com/varela-round-font.html
