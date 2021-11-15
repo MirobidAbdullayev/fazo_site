@@ -5,6 +5,13 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\ContactMessage;
 use App\Models\Carausels;
+use App\Models\About;
+use App\Models\Servic;
+use App\Models\AboutServic;
+use App\Models\Statistic;
+use App\Models\Team;
+use App\Models\Blog;
+use App\Models\Contact;
 
 class LandingController extends Controller
 {
@@ -16,9 +23,23 @@ class LandingController extends Controller
     public function index()
     {
         $carausels = Carausels::whereNull('deleted_at')->get();
-
+        $abouts    = About::whereNull('deleted_at')->get();
+        $services  = Servic::whereNull('deleted_at')->get();
+        $aboutServices = AboutServic::whereNull('deleted_at')->get();
+        $statistics    = Statistic::whereNull('deleted_at')->get();
+        $teams         = Team::whereNull('deleted_at')->get();
+        $blogs         = Blog::whereNull('deleted_at')->get();
+        $contacts      = Contact::whereNull('deleted_at')->get(); 
+ 
         return view('welcome')->with([
-            'carausels' => $carausels
+            'carausels' => $carausels,
+            'abouts'    => $abouts,
+            'services'  => $services,
+            'aboutServices' => $aboutServices,
+            'statistics'    => $statistics,
+            'teams'         => $teams,
+            'blogs'         => $blogs,
+            'contacts'      => $contacts
         ]);
     }
 
